@@ -23,7 +23,7 @@ This project demonstrates a full-stack AI-powered text classification system. Th
 2. Start all services:
 
    ```bash
-   docker-compose up --build
+   docker-compose up --build backend frontend
    ```
 
    This launches:
