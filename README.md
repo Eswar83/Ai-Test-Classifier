@@ -69,9 +69,9 @@ Once backend is running, access full API docs at:
 
 ## 📹 Screen Recording
 
-* Watch the project walkthrough (under 3 mins):
+* Watch the project walkthrough :
 
-  * [🔗 YouTube Link (Unlisted)](https://www.youtube.com/watch?v=YOUR_UNLISTED_LINK)
+  * [🔗 YouTube Link](https://www.youtube.com/watch?v=At66pfhdhJQ)
 
 ## ☁️ Deployed Version
 
